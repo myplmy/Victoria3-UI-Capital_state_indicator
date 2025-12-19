@@ -701,9 +701,7 @@ types uboy_ui_capital_state_indicator_country_panel_types {
 						raw_text = "#v [Country.GetPrimaryCulturesDesc]#!"
 					}
 				}
-
                 ### UBOY.UI.CAPITAL STATE INDICATOR
-				##CULTURE
 				country_stats_entry = {
 					blockoverride "stats_tooltip" {}
 
